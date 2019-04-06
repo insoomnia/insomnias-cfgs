@@ -1,6 +1,10 @@
 # inso's custom stuff
 
+<<<<<<< HEAD
 ## **Put all files in "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom"**
+=======
+## **put all files in "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom"**
+>>>>>>> 398b8bc89e7b1a0ddc4ba1fcb7c2f824d0bf727f
 
 ## **Click on the names to download via dropbox.**
 
