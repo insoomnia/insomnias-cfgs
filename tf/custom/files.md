@@ -1,10 +1,9 @@
 # inso's custom stuff
 
-**
-# put all files in "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg"
+##put all files in "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg"
 
 ##Click on the names to download via dropbox.
-**
+
 
 
 # [HUD](https://www.dropbox.com/sh/32esg9z8kvna59p/AAAyH7CfvNhfvfGr9SskSuUza?dl=0)
