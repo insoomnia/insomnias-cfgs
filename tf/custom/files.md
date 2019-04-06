@@ -13,6 +13,6 @@
 # [hitsound](https://www.dropbox.com/sh/m4aqm2y82sh4cjr/AABQm2_PR9CNpDzOW4VVjBBPa?dl=0)
 ## put _soundmods_ folder in _custom_
 # [no explosion smoke "VPK"](https://www.dropbox.com/s/tsizw0ffwqh7onc/smoke.vpk?dl=0); [no explosion smoke "sound.cache"](https://www.dropbox.com/s/zjfp5e41m58hee7/smoke.vpk.sound.cache?dl=0); [no explosion "surfaceproperties.txt"](https://www.dropbox.com/s/o8fhghbpoltvyuf/surfaceproperties.txt?dl=0)
-## put the all in custom to get explosions just like in the screenshot
+## Put all the files above in _custom_ to get explosions just like in the screenshot below
 ![](http://i.imgur.com/b9GkEYe.jpg)
 _Screenshot by "MAD76"_
