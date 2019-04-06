@@ -3,13 +3,13 @@
 Click on the names to download via dropbox.
 
 # [HUD](https://www.dropbox.com/sh/32esg9z8kvna59p/AAAyH7CfvNhfvfGr9SskSuUza?dl=0)
-![] (https://imgur.com/39WjfSC)
+![](https://imgur.com/39WjfSC)
 
 #[mastercomfig](https://www.dropbox.com/sh/bfd84iwt7p4p5sj/AADWbMrYn0uaDDk1OLkb10nqa?dl=0)
-![] (https://imgur.com/Vj6UaTj)
+![](https://imgur.com/Vj6UaTj)
 
 #[hitsound (put "soundmods" folder in custom)](https://www.dropbox.com/sh/m4aqm2y82sh4cjr/AABQm2_PR9CNpDzOW4VVjBBPa?dl=0)
-![] (file:///C:/Users/pietr/Documents/sound%20preview%20hitsound/web%20design/Audio/audio.html)
+![](file:///C:/Users/pietr/Documents/sound%20preview%20hitsound/web%20design/Audio/audio.html)
 
 #[no explosion smoke "VPK"](https://www.dropbox.com/s/tsizw0ffwqh7onc/smoke.vpk?dl=0)
 
